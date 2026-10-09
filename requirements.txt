@@ -1,0 +1,6 @@
+pyam-iamc
+pandas
+numpy
+matplotlib
+ipykernel
+truststore
